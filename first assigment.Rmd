@@ -1,0 +1,26 @@
+---
+title: "First assigment"
+author: "Ana Martin"
+date: "25/11/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# First assigment 
+
+## What do I want to know and learn
+
+* How to do scientific papers in R
+* How to use Data , where to find it, specially. 
+
+* I would also like to talk about the book [Bit by bit](https://www.bitbybitbook.com/) and get some explanation on how to use it properly for this course. 
+
+* I would also expand some knowledge on the combination of Big Data and Psychology studies. 
+
+* I also hope I will know by heart the Cheatsheet 
+
+
+
+
+
